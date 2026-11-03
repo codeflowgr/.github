@@ -1,6 +1,6 @@
 # CodeFlow
 
-Independent software consultancy in Athens, Greece. We review code and architecture, give senior technical guidance, integrate agentic AI and build software for small and medium businesses and software companies.
+Independent software consultancy in Athens, Greece. We review code and architecture, give senior technical guidance, integrate agentic AI and build software. We work with small and medium businesses, software companies and companies with in-house IT teams.
 
 ## What we do
 
